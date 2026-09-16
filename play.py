@@ -1,3 +1,5 @@
+# http://knu-lms.geumdo.net/page/index.do
+
 import random
 
 # 1~9 사이의 서로 다른 4자리 숫자 생성
